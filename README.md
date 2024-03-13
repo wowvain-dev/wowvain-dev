@@ -6,6 +6,11 @@
     style="border-radius: 0 0 14px 14px;">
 </div>
 
+
+
+<p style="font-size: 28px; margin-top: 50px"><b>SKILLS</b></p>
+
+
 <!--
 **wowvain-dev/wowvain-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
