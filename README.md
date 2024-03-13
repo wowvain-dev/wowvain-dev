@@ -1,6 +1,6 @@
 <h1 align="center"><b>VAIN</b></h1>
 
-![field](https://github.com/wowvain-dev/wowvain-dev/blob/master/edo_landscape.png?raw=true "Field")
+![field](https://github.com/wowvain-dev/wowvain-dev/blob/master/edo_landscape.jpg?raw=true "Field")
 
 
 <!--
