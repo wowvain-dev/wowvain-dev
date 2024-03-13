@@ -1,6 +1,11 @@
-![field](https://github.com/wowvain-dev/wowvain-dev/blob/master/edo_landscape.png?raw=true "Field")
+<div>
+<img src="https://github.com/wowvain-dev/wowvain-dev/blob/master/edo_landscape.jpg?raw=true"
+    style="margin-bottom: -8; border-radius: 14px 14px 0 0;"
+>
+<img src="https://github.com/wowvain-dev/wowvain-dev/blob/master/name.png?raw=true" 
+    style="border-radius: 0 0 14px 14px;">
+</div>
 
-<img width="1000" src="https://github.com/wowvain-dev/wowvain-dev/blob/master/name.png?raw=true"/>
 <!--
 **wowvain-dev/wowvain-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
