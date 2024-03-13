@@ -8,7 +8,7 @@
 
 
 
-<p style="font-size: 28px; margin-top: 50px"><b>SKILLS</b></p>
+<!-- <p style="font-size: 28px; margin-top: 50px"><b>SKILLS</b></p> -->
 
 
 <!--
