@@ -1,6 +1,6 @@
 <div>
 <img src="https://github.com/wowvain-dev/wowvain-dev/blob/master/edo_landscape.jpg?raw=true"
-    style="margin-bottom: -8; border-radius: 14px 14px 0 0;"
+    style="margin-bottom: -9; border-radius: 14px 14px 0 0;"
 >
 <img src="https://github.com/wowvain-dev/wowvain-dev/blob/master/name.png?raw=true" 
     style="border-radius: 0 0 14px 14px;">
