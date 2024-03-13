@@ -1,8 +1,8 @@
 <div>
-<img src="https://github.com/wowvain-dev/wowvain-dev/blob/master/edo_landscape.jpg?raw=true"
-    style="margin-bottom: -9; border-radius: 14px 14px 0 0;"
+<img src="https://github.com/wowvain-dev/wowvain-dev/blob/master/rounded_name.png?raw=true"
+    style="margin-bottom: -9px;"
 >
-<img src="https://github.com/wowvain-dev/wowvain-dev/blob/master/name.png?raw=true" 
+<img src="https://github.com/wowvain-dev/wowvain-dev/blob/master/rounded_name2.png?raw=true" 
     style="border-radius: 0 0 14px 14px;">
 </div>
 
